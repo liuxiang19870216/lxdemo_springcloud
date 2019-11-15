@@ -1,0 +1,3 @@
+lxdemo\springcloud\gateway\filter\AuthFilter.class
+lxdemo\springcloud\gateway\GatewayApplication.class
+lxdemo\springcloud\gateway\config\RestTemplateConfig.class
